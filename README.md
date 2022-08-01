@@ -1,5 +1,5 @@
  <h3>👋 Hi, I am Jean Paul</h3>
-- 👀 I am interested in Software Engineering and willing to learn everything<br/>
+- 👀 I am interested in Software Engineering and always learning new stuff<br/>
 - 🌱 I am currently learning Full Stack Web Development<br/>
 - 💞️ I have a Mechanical Engineering Bachelor Degree <br/>
 - 📫 You can reach me on <a href="mailto:jeanpaulabizeid@gmail.com">jeanpaulabizeid@gmail.com<br/>
